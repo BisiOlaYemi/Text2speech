@@ -42,7 +42,7 @@ continuous maintenance, implementing CI/CD pipelines, and collaborating with cro
 
   return (
     <div className="flex items-center">
-      <div className="w-2/3 mt-24">
+      <div className="w-2/3 mt-24 pl-5">
         <textarea
           className="w-full p-2 border border-gray-300 rounded"
           rows="19"
