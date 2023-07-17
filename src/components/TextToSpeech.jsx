@@ -51,6 +51,7 @@ continuous maintenance, implementing CI/CD pipelines, and collaborating with cro
         />
       </div>
       <div className="w-1/4 ml-4 mt-24">
+        <h1 className='text-xl text-gray-800 mb-2 text-center'>Yemi's note</h1>
         <button
           className={`w-full py-2 px-2 rounded-full ${
             isPlaying ? 'bg-red-500 text-white' : 'bg-green-500 text-white'
