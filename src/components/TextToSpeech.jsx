@@ -29,14 +29,12 @@ const TextToSpeech = () => {
   };
 
   const defaultText = `I am writing to express my strong interest in the Front-end Developer position at any company that is interested solely in hiring a smart and intelligent individual. With a zeal for web development and a track record of delivering high-quality projects, I believe that my skills and experience align perfectly with the requirements of the role. I have a solid foundation in web development, backed by 4+ years of professional experience in designing and developing robust web applications.
-  Throughout my career, I have consistently demonstrated expertise in front-end and back-end development, employing
-  modern technologies and frameworks such as HTML5, CSS, JavaScript(Reactjs/Nextjs) Nodejs, PHP, SQL, and Django to
-  create exceptional user experiences. One of my notable achievements includes building a sophisticated web application
-  from scratch using cutting-edge technologies. This project resulted in a significant improvement of 55% in user engagement,
-  showcasing my ability to deliver impactful solutions that drive positive results. Additionally, I have experience in providing
-  continuous maintenance, implementing CI/CD pipelines, and collaborating with cross-functional teams to ensure optimal website
-  performance and reliability.
-  `;
+Throughout my career, I have consistently demonstrated expertise in front-end and back-end development, employing
+modern technologies and frameworks such as HTML5, CSS, JavaScript(Reactjs/Nextjs) Nodejs, PHP, SQL, and Django to
+create exceptional user experiences. One of my notable achievements includes building a sophisticated web application
+from scratch using cutting-edge technologies. This project resulted in a significant improvement of 55% in user engagement,
+showcasing my ability to deliver impactful solutions that drive positive results. Additionally, I have experience in providing
+continuous maintenance, implementing CI/CD pipelines, and collaborating with cross-functional teams to ensure optimal website performance and reliability.`;
 
   useEffect(() => {
     setText(defaultText);
