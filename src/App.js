@@ -1,9 +1,10 @@
+import TextToSpeech from "./components/TextToSpeech";
 
 
 function App() {
   return (
     <div className="">
-      <h1 className="font-bold text-3xl text-gray-800">Text to Speech</h1>
+        <TextToSpeech />
     </div>
   );
 }
